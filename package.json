@@ -1,0 +1,15 @@
+{
+  "name": "gmail-otp-api",
+  "version": "1.0.0",
+  "description": "Gmail OTP Send & Verify API",
+  "main": "api/status.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.13",
+    "otp-generator": "^4.0.1"
+  },
+  "author": "https://t.me/username_506",
+  "license": "ISC"
+}
