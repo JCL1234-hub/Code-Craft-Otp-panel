@@ -1,0 +1,14 @@
+{
+  "api_name": "Gmail OTP API",
+  "version": "1.0.0",
+  "developer": "https://t.me/username_506",
+  "status": "Online",
+  "total_requests": 0,
+  "total_users": 0,
+  "total_otps_sent": 0,
+  "verified_otps": 0,
+  "expired_otps": 0,
+  "last_2_days_requests": 0,
+  "_users": [],
+  "_requests": []
+}
